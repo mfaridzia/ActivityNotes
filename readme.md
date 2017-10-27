@@ -1,7 +1,7 @@
 ActivityNotes App
 ==================
 
-ActivityNotes is a simple Web-based application using Laravel framework that is used to record the daily schedule of our activities and events, this application I make because I myself feel very difficult to manage my time well, then from there flashed the mind to create a very application simple that can help me in managing the time. This application is still very simple and hopefully this application can be better again.
+ActivityNotes is a simple Web-based application using the Laravel framework that is used to record our daily schedule and events, this application is made because I find it very difficult to manage my time well, then from there it comes to mind to create a very simple application that can help me in managing time. This application is still very simple and hopefully this application can be better again.
 
 ### How to use :
 
